@@ -1,9 +1,8 @@
 :root {
-    --main-color: #c0392b;
+    --main-color: #ff1900;
     --body-bg: #181616;
     --box-bg: #221f1f;
     --text-color: #ffffff;
-
     --nav-height: 60px;
     --space-top: 30px;
 }
