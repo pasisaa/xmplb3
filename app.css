@@ -590,7 +590,7 @@ footer .content {
     }
 
     .hero-slide-item {
-        height: max-content;
+        height: 250px;
         padding-top: unset;
     }
 
