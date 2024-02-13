@@ -424,6 +424,7 @@ a.movie-item:hover {
     background-color: var(--box-bg);
     border-top: 5px solid transparent;
     transition: transform 0.3s ease-in-out;
+    font-family: cursive;
 }
 
 .mapel-1{
@@ -458,6 +459,33 @@ a.movie-item:hover {
     height: 50vh;
     background-color: rgba(255, 0, 0, 0.333);
     border-radius: 10px;
+}
+
+.sk-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 12%;
+    width: 30%;
+    height: 50vh;
+    background-color: rgba(255, 0, 0, 0.333);
+    box-shadow: 0 0 3px 1px white;
+    border-radius: 50%;
+}
+.sk-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 16%;
+    width: 30%;
+    height: 50vh;
+    background-color: rgba(255, 0, 0, 0.333);
+    box-shadow: 0 0 3px 1px white;
+    border-radius: 50%;
 }
 
 .pricing-box:hover {
@@ -641,5 +669,22 @@ footer .content {
 
     .nav-menu.active {
         left: 0;
+    }
+    .mapel-1 {
+        height: 30vh;
+    }
+    .mapel-2 {
+        height: 30vh;
+    }
+    .mapel-3 {
+        height: 30vh;
+    }
+    .sk-1{
+        height: 15vh;
+        font-size: .4rem;
+    }
+    .sk-2{
+        height: 15vh;
+        font-size: .4rem;
     }
 }
