@@ -467,8 +467,8 @@ a.movie-item:hover {
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-left: 12%;
-    width: 30%;
+    margin-left: 6%;
+    width: 40%;
     height: 50vh;
     background-color: rgba(255, 0, 0, 0.333);
     box-shadow: 0 0 3px 1px white;
@@ -480,8 +480,8 @@ a.movie-item:hover {
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-left: 16%;
-    width: 30%;
+    margin-left: 9%;
+    width: 40%;
     height: 50vh;
     background-color: rgba(255, 0, 0, 0.333);
     box-shadow: 0 0 3px 1px white;
@@ -680,11 +680,11 @@ footer .content {
         height: 30vh;
     }
     .sk-1{
-        height: 15vh;
-        font-size: .4rem;
+        height: 20vh;
+        font-size: .8rem;
     }
     .sk-2{
-        height: 15vh;
-        font-size: .4rem;
+        height: 20vh;
+        font-size: .8rem;
     }
 }
