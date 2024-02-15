@@ -424,7 +424,6 @@ a.movie-item:hover {
     background-color: var(--box-bg);
     border-top: 5px solid transparent;
     transition: transform 0.3s ease-in-out;
-    font-family: cursive;
 }
 
 .mapel-1{
